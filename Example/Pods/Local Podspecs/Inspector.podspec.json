@@ -1,0 +1,22 @@
+{
+  "name": "Inspector",
+  "version": "0.1.0",
+  "summary": "A short description of Inspector.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mac Bellingrath/Inspector",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mac Bellingrath": "macbellingrath@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Mac Bellingrath/Inspector.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Inspector/Classes/**/*"
+}

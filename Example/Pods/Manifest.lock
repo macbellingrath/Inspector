@@ -1,0 +1,16 @@
+PODS:
+  - Inspector (0.1.0)
+
+DEPENDENCIES:
+  - Inspector (from `../`)
+
+EXTERNAL SOURCES:
+  Inspector:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Inspector: 70a853bfd3e47c8312723169b9b556daad969ce6
+
+PODFILE CHECKSUM: 88d0a7ccdcd693b0cc4e22767e65bc001b55ea1e
+
+COCOAPODS: 1.4.0
